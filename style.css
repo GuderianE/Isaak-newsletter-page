@@ -1,5 +1,3 @@
-@import url("");
-
 #mc_embed_signup_scroll {
   display: flex;
   min-height: 100vh;
@@ -15,7 +13,6 @@
   padding: 0.5rem;
   border: none;
   border-bottom: 0.1rem solid black;
-  border-radius: 0.2rem;
 }
 
 .mc-field-group {
