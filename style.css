@@ -1,9 +1,17 @@
 #mc_embed_signup_scroll {
   display: flex;
+  width: 60%;
   min-height: 100vh;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.background {
+  background: url("/assets/1LifeArtworkTransparaent.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 80%;
 }
 
 .mc-field-group > label + input {
